@@ -95,7 +95,7 @@ SELECT *
 
 *The keyword **ILIKE** can be used instead of **LIKE** to make the match case insensitive*
 
- #### IN:
+#### IN:
 
  ```
 SELECT *
