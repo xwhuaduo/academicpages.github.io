@@ -11,49 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, University of Science & Technology Beijing, 2011
+* M.S. in Applied Statistics, Central University of Finance & Economics, 2013
+* M.S. in Statistics, University of Georgia, 2019 (expected)
+
+Project experience
+======
+* Object dection in images, August2018–December2018
+    * Got the project team familiar with CNN model and transfer learning in a short time by giving a presentation
+    * Shorten the training time to 77 hours by using GPU from cloud computing platform
+    * Made the model converge faster by implementing KNN algorithms to find new anchor boxes
+
+* Statistical consulting, UGA Statistical Consulting Center, August 2018 – present
+    * Got the purpose of the client fully understood by meetings and discussing with clients
+    * Generated structured data from raw data, find answers to meet with client’s purpose by analyzing data
+    * Made the client with no statistical background fully understood the result by presentation and project report
+
+* Honduras ecological forecasting, NASA DEVELOP, June 2018 – August 2018
+    * Communicated with partners to collect information about their purpose and feedback on our weekly update
+    * Found a methodology for timely detection of forest change by literature review and team discussion.
+    * Detected forest change using remote sensing data and the detection tool we created on Google Earth Engine
+    * *Nominated as the DEVELOPer of Georgia node*
+
+* Identifying key marker genes related to drug sensitivity, March 2018
+    * Selected key marker genes by conducted variable selection methods such as LASSO
+    * Clustered the selected variables and visualized the result by performing PCA/K-mean methods Establishing Corporate
+
+* Annuity Project, CSSC, December 2013- July 2016
+    * Built the project from scratch by working the selected the agency manager for the project
+    * Standardized the management by establishing the manual of Corporate Annuity Project
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017 - Present: Lab Manager
+  * Big data Analytics Lab, UGA
+  * Duties included: Kept track the daily work of 18 lab members by establishing work procedures and schedules
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016 - Summer 2017: HR Manager
+  * China JINMAO Group Co.Ltd
+  * Duties included: Improved employee satisfaction by maintaining salary date, and erasing concerns about daily affairs and social insurance
+
+* Fall 2013 - Summer 2016: Compensation & Benefits Specialist
+  * China State Shipbuilding Corporation
+  * Duties included: Improved labor cost management of affiliated companies by analyzing monthly labor cost report
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Data analysis
+    * R
+    * Python
+    * SQL
+    * Tableau
+* Microsoft Office Suite
+* LaTex
+* Strong communication
+* Time-management
