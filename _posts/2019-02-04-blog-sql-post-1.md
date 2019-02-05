@@ -103,15 +103,15 @@ SELECT *
 WHERE a IN (1,2,3)
  ```
 
- #### BETWEEN
+#### BETWEEN
  `WHERE a BETWEEN 1 AND 3`
- #### IS NULL
+#### IS NULL
  `WHERE artist IS NULL`
- #### AND
+#### AND
 
- #### OR
- #### NOT
- #### ORDER BY 
+#### OR
+#### NOT
+#### ORDER BY 
  ` ORDER BY a`
 
  `ORDER By a DESC`
@@ -229,7 +229,7 @@ SELECT CASE WHEN year = 'FR' THEN 'FR'
  GROUP BY 1
  ```
 
- #### Using CASE inside of aggregate functions
+#### Using CASE inside of aggregate functions
  ```
 SELECT COUNT(CASE WHEN year = 'FR' THEN 1 ELSE NULL END) AS fr_count,
        COUNT(CASE WHEN year = 'SO' THEN 1 ELSE NULL END) AS so_count,
