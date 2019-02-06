@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website. I am still working on it. I will reorganize my summary and note from Onenote and post here.
+This is my personal website. I am still working on it. I will reorganize my notes from Onenote and post here.
