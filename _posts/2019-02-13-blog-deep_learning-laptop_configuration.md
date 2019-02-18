@@ -10,11 +10,11 @@ tags:
   - Conda
 ---
 
-If you want to run deep learning models, such as models with CNN, to conduct image classification or object detection, you gonna need a GPU to shorten the training time. If you don't have a machine with a GPU, your best option is to use the Cloud Platform. 
+If you want to run deep learning models, such as models based on CNN, to conduct image classification or object detection, you will need a GPU to shorten the training time. If you don't have a machine with a GPU, your best option is to use the Cloud Platform. 
 
-Following the  [instruction on Stanford course CS231n](http://cs231n.github.io/gce-tutorial/), I registered on google cloud platform(GCP) and got \$300 credit for free to spend on GCP. I trained an object detection model ([SSD 300](https://github.com/pierluigiferrari/ssd_keras)) and there are only a few credits left.
+Following the  [instruction on Stanford course CS231n](http://cs231n.github.io/gce-tutorial/), I registered on google cloud platform(GCP) and got \$300 credit for free to spend on GCP. I trained several object detection models, and spent all credits.
 
-So, I got a new laptop with a GTX 1060 GPU, and I managed to install Ubuntu 18.04 LST operating system and configuring the environment for deep learning. This post summaries the main steps to build an environment for Deep Learning.
+So, I got a new laptop with a GTX 1060 GPU, and I managed to install Ubuntu 18.04 LST operating system and configure the environment for deep learning. This post summaries the main steps to build an environment for Deep Learning.
 
 The laptop I got is [Overpowered gaming laptop 17+](https://www.walmart.com/ip/OVERPOWERED-Gaming-Laptop-17-2-Year-Warranty-144Hz-Intel-i7-8750H-NVIDIA-GeForce-GTX-1060-Mechanical-LED-Keyboard-256-SSD-2TB-HDD-32GB-RAM-Windows-10/887474519). 
 
